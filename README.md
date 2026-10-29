@@ -34,6 +34,7 @@ Welcome to my GitHub profile! I'm a management student passionate about explorin
 🤝 Let's Connect
 
 - 💼 "LinkedIn" (https://www.linkedin.com/)
+- Email - nikitajoshi702@gmail.com
 - 
   
 I'm always eager to learn, collaborate, and explore new opportunities. Thanks for visiting my profile! ✨
