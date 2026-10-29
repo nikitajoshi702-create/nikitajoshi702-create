@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a management student passionate about explorin
 
 - 🎓 Currently pursuing PGDM.
 - 📊 Interested in business analytics, market research, and data-driven decision-making.
-- 📱 Content creator with experience in audience engagement and digital storytelling.
 - 💡 Exploring AI applications and innovative business solutions.
 - 📚 Continuously learning new tools and developing professional skills.
 
@@ -35,8 +34,8 @@ Welcome to my GitHub profile! I'm a management student passionate about explorin
 🤝 Let's Connect
 
 - 💼 "LinkedIn" (https://www.linkedin.com/)
-- 📸 "Instagram" (https://www.instagram.com/)
-
+- 
+  
 I'm always eager to learn, collaborate, and explore new opportunities. Thanks for visiting my profile! ✨
 
 ---
